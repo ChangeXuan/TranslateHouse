@@ -13,7 +13,38 @@
 </p>
 
 APNGKit是一种在iOS和macOS平台上用来加载和显示APNG图像的高性能框架。它是建立在[modified version of libpng](https://github.com/onevcat/libpng)之上具有APNG支持，并使用Swift语言进行编写的框架。
-高度 抽象 属于| 关于 Cocoa Touch 是 使用 对于 一个 令人愉快的|讨人喜欢|方便使用 API。
 这是一个属于Cocoa Touch高层级的抽象API，使用时十分方便。
+正因如此，当你使用APNKit去播放APNG格式的图片集合时，你会感到十分自在和快乐。
 
-Since be that, you will feel at home and joy when using APNGKit to play with images in APNG format.
+## APNG，它是什么，为什么要使用它？
+
+APNG的全称为[Animated Portable Network Graphics](https://en.wikipedia.org/wiki/APNG)，它是从PNG格式拓展出来的一种新的文件格式。
+它允许具有动画效果的PNG文件像GIF动画那样播放，同时它具有GIF没有的特点，能够支持24bit图像和8bit的透明图像。
+这就意味着它会拥有更好的动画质量。
+同时，如果去创建一个紧密的GIF，那APNG文件的大小可能与其相等甚至会小于GIF图的大小。
+
+光说不练假把式；
+下面的我来展示GIF和APNG的效果。
+你可以去点击播放按钮来查看它们之间的动画效果。
+
+<p align="center">
+<a href="http://apng.onevcat.com/demo" target="_blank"><img src="https://raw.githubusercontent.com/onevcat/APNGKit/master/images/demo.png" alt="APNGKit Demo" title="APNGKit Demo"/></a>
+</p>
+
+上面的演示很酷吧。
+和GIF图像相比起来，APNG的效果好多了！
+等等。。。为什么我以前从来没有听说锅APNG呢？
+因为它不是一个流行的格式。既然这样，为什么我要在我的下一个伟大的iOS/macOS应用程序中使用它呢？
+
+这是个好问题！
+APNG是一个很优秀的PNG拓展格式，同时它在不违背当前PNG标准的前提下具有较为简单的使用方法（
+它由标准的PNG报头组成，所以如果你使用的平台不支持APNG，它将被识别成一副普通的PNG图像，PNG静态图像的内容为APNG图像序列的第一帧。）。
+但不幸的是，它不是一种正规的被PNG组织接受的格式。
+尽管这样，APNG依旧被许多厂商所接受，并在[W3C Standards](http://www.w3.org/TR/html5/embedded-content-0.html#the-img-element)多次被提及和称赞。
+还有一种格式与APNG类似，它的名字叫MNG(Multiple-image Network Graphics)，并且它是由创建PNG的那个团队开发出来的。
+MNG是一种综合的格式，但十分十分十分的复杂。
+它太复杂了，以至于成立了一套"标准"，所以MNG几乎被所有的厂商和开发者所拒绝。
+现在只有一个名叫[Konqueror](https://konqueror.org)的浏览器在默默支持这MNG格式，这真是个悲伤却很合理的事情。
+
+
+ 
