@@ -46,5 +46,10 @@ MNG是一种综合的格式，但十分十分十分的复杂。
 它太复杂了，以至于成立了一套"标准"，所以MNG几乎被所有的厂商和开发者所拒绝。
 现在只有一个名叫[Konqueror](https://konqueror.org)的浏览器在默默支持这MNG格式，这真是个悲伤却很合理的事情。
 
+尽管目前APNG没有被的接受，但我们仍然看到了它宽广的前景。
+Apple公司最近在[桌面版和移动端的Safari](http://www.macrumors.com/2014/09/28/ios-8-safari-supports-animated-png-images/)对APNG进行了支持。
+并且[微软的Edge](https://wpdev.uservoice.com/forums/257854-microsoft-edge-developer/suggestions/6513393-apng-animated-png-images-support-firefox-and-sa)以及[谷歌的Chrome](https://code.google.com/p/chromium/issues/detail?id=437662)也已经在他们的[WebKit核心](https://bugs.webkit.org/show_bug.cgi?id=17022)添加了有关APNG相关的东西，并正在考虑是否对APNG提供支持。
+
+
 
  
