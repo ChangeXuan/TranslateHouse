@@ -50,6 +50,11 @@ MNG是一种综合的格式，但十分十分十分的复杂。
 Apple公司最近在[桌面版和移动端的Safari](http://www.macrumors.com/2014/09/28/ios-8-safari-supports-animated-png-images/)对APNG进行了支持。
 并且[微软的Edge](https://wpdev.uservoice.com/forums/257854-microsoft-edge-developer/suggestions/6513393-apng-animated-png-images-support-firefox-and-sa)以及[谷歌的Chrome](https://code.google.com/p/chromium/issues/detail?id=437662)也已经在他们的[WebKit核心](https://bugs.webkit.org/show_bug.cgi?id=17022)添加了有关APNG相关的东西，并正在考虑是否对APNG提供支持。
 
+APNG是一种很好的格式，它能给用户在视觉上带来更好的动图效果。
+我们使用APNG越多，它所获得的认可和支持就会越多，最后形成一个良性的循环。
+那样，APNG就不会仅仅存在与浏览器的世界里，它还会出现在我们喜欢的应用程序中给我们呈现精彩的效果。
+这个就是我创建APNGKit这个框架的原因。
+
 
 
  
