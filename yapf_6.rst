@@ -24,9 +24,9 @@ YAPF
 但这并不意味这那些代码看起来很好看。
 YAPF使用了一个不同的方法。
 它是基于有Daniel Jasper提出的clang格式。
-In essence, the algorithm takes the code and reformats it to the
-best formatting that conforms to the style guide, even if the original code
-didn't violate the style guide. The idea is also similar to the 'gofmt' tool for
+本质上，该算法会将代码格式化为符合代码样式指南的最佳格式，
+即使源代码没有违反代码样式指南。
+The idea is also similar to the 'gofmt' tool for
 the Go programming language: end all holy wars about formatting - if the whole
 codebase of a project is simply piped through YAPF whenever modifications are
 made, the style remains consistent throughout the project and there's no point
