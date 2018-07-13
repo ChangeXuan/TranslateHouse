@@ -2,11 +2,7 @@
 <img src="https://github.com/Unity-Technologies/ml-agents/blob/master/docs/images/unity-wide.png" align="middle" width="3000"/>
 
 # Unity 机器学习工具集(Beta)
-**Unity机器学习工具集** (ML-Agents) 
-是 一个 开源的 unity插件 能够 游戏 和 模拟 去 服务 环境 对于 训练 智能 代理
-is an open-source Unity plugin 
-that enables games and simulations to serve as environments for training
-intelligent agents. 
+**Unity机器学习工具集** (ML-Agents)是一个开源的unity插件，它可以使开发者在游戏或者模拟环境下使用训练好的机器学习模型。
 
 Agents can be trained using reinforcement learning,
 imitation learning, neuroevolution, or other machine learning methods through
