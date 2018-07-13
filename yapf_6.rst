@@ -22,9 +22,9 @@ YAPF
 但是这样子会有一些明显的局限性。
 举一个例子，有些代码符合PEP 8的准则可能不需要重新格式化。
 但这并不意味这那些代码看起来很好看。
-
-YAPF takes a different approach. It's based off of 'clang-format', developed by
-Daniel Jasper. In essence, the algorithm takes the code and reformats it to the
+YAPF使用了一个不同的方法。
+它是基于有Daniel Jasper提出的clang格式。
+In essence, the algorithm takes the code and reformats it to the
 best formatting that conforms to the style guide, even if the original code
 didn't violate the style guide. The idea is also similar to the 'gofmt' tool for
 the Go programming language: end all holy wars about formatting - if the whole
