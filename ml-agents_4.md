@@ -6,11 +6,6 @@
 我们能够使用多种方法去训练代理，如强化学习，模仿学习，神经网络，或者通过一个简单易用的Python API来去使用其他的机器学习方法。
 我们也提供了使用最先进的算法的实现方式(基于TensorFlow)，并能够使得开发者和业余爱好者能够在自己的2D，3D甚至是VR/AR游戏中去很好的训练和使用机器学习智能代理。
 这些被训练好的代理能够被用于多个不同的目的，包括控制NPC的行为(在一个多样化设置的游戏中，可以使用代理让自己游戏的敌人拥有智能)
+对游戏进行自动测试和对不同的游戏设计进行评估和预发布。
+这个机器学习代理工具集对于游戏开发者和AI研究员两者来说都有较大的益处，它提供了一个良好的中心平台，让AI能够在研究员和Unity游戏开发者社区中得到长足的发展。
 
-自动 测试 游戏 建立和评价 不同 游戏 设计 决定 预释放 
-automated testing of game builds and evaluating different game
-design decisions pre-release. 
-The ML-Agents toolkit is mutually beneficial for both game
-developers and AI researchers as it provides a central platform where advances
-in AI can be evaluated on Unity’s rich environments and then made accessible
-to the wider research and game developer communities. 
