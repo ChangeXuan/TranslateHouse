@@ -1,10 +1,14 @@
 # 原文来自[Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents)
 <img src="https://github.com/Unity-Technologies/ml-agents/blob/master/docs/images/unity-wide.png" align="middle" width="3000"/>
 
-# Unity ML-Agents Toolkit (Beta)
-**The Unity Machine Learning Agents Toolkit** (ML-Agents) is an open-source Unity plugin 
+# Unity 机器学习工具集(Beta)
+**Unity机器学习工具集** (ML-Agents) 
+是 一个 开源的 unity插件 能够 游戏 和 模拟 去 服务 环境 对于 训练 智能 代理
+is an open-source Unity plugin 
 that enables games and simulations to serve as environments for training
-intelligent agents. Agents can be trained using reinforcement learning,
+intelligent agents. 
+
+Agents can be trained using reinforcement learning,
 imitation learning, neuroevolution, or other machine learning methods through
 a simple-to-use Python API. We also provide implementations (based on
 TensorFlow) of state-of-the-art algorithms to enable game developers
