@@ -7,9 +7,10 @@
 我们也提供了使用最先进的算法的实现方式(基于TensorFlow)，并能够使得开发者和业余爱好者能够在自己的2D，3D甚至是VR/AR游戏中去很好的训练和使用机器学习智能代理。
 这些被训练好的代理能够被用于多个不同的目的，包括控制NPC的行为(在一个多样化设置的游戏中，可以使用代理让自己游戏的敌人拥有智能)
 
-
+自动 测试 游戏 建立和评价 不同 游戏 设计 决定 预释放 
 automated testing of game builds and evaluating different game
-design decisions pre-release. The ML-Agents toolkit is mutually beneficial for both game
+design decisions pre-release. 
+The ML-Agents toolkit is mutually beneficial for both game
 developers and AI researchers as it provides a central platform where advances
 in AI can be evaluated on Unity’s rich environments and then made accessible
 to the wider research and game developer communities. 
