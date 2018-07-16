@@ -3,12 +3,10 @@
 ![gif](http://i.imgur.com/bkQlFxX.gif)
 
 **FFmpegOut**是一个用于记录和导出视频的Unity插件，并使用[FFmpeg]视频编码器来对Unity的视频进行加载。
-
-The main scope of FFmpegOut is to reduce rendering time when using Unity for
-pre-rendering. It greatly reduces the amount of file I/O compared to exporting
-raw image sequences, so that it can be an effective solution when the bandwidth
-is the most significant bottleneck. On the other hand, FFmpegOut is not
-optimized for real-time capturing. It's not strongly recommended to use it in
-an interactive application.
+FFmpegOut的主要作用是在Unity对视频进行预渲染是可以有效的减少渲染的时间。
+与导出原图像相比，它大大的减少了文件的I/O数量，
+所以当带宽遇到较大的瓶颈时，FFmpegOut是一种有效的解决办法。
+另一方面，FFmpegOut在时时捕捉图像上并没有做到最优,
+因此，不太推荐把FFmpegOut使用在交互式的应用上。
 
 [FFmpeg]: https://ffmpeg.org/
