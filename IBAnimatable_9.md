@@ -18,3 +18,13 @@
 所以它仅仅展示了一小部分的特性。
 我们也能在[YouTube](https://www.youtube.com/watch?v=dvD8X6J1YLM)或者[MP4 on Github](https://github.com/IBAnimatable/IBAnimatable-Misc/blob/master/Videos/IBAnimatable.mp4?raw=true)
 观看完整版本的演示。
+
+## 关键的特性
+- ✅ **100%与`UIKit`兼容**。全部的`IBAnimatable`APIs都是从`UIKit`中拓展出来的，没有对`UIKit`本身的APIs进行修改。
+- ✅ **100%与自动布局和大小兼容**。没有自定义布局系统。
+- ✅ **在IB界面中完成用户界面的设计与预览**: 圆角, 粗体, 蒙版, 阴影, 渐变色, 着色, 模糊效果等。
+- ✅ **在IB界面中完成动画设计**: 滑动, 褪色, 缩放, 轻跳, 弹泡, 抖动, 旋转, 移动等。
+- ✅ **Transition design in IB**: fade, slide, flip, cube, portal, fold, explosion etc.
+- ✅ **Interactive gesture design in IB**: pan, screen edge pan, pinch etc. 
+- ✅ **Presentation design in IB**: flip, cover, zoom, dropdown etc.
+- ✅ **Activity indicator design in IB**: ball beat, ball rotate, cube transition, Pacman etc. 
