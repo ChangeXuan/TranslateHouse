@@ -31,13 +31,13 @@ IL2CPP得到支持，但是仍然有一些缺陷 - 请看 <a href="#aot-support"
 * 注入不同的Unity场景，将信息从一个场景传递到下一个场景
 * 允许一个场景继承另一个场景的绑定项
 * 支持全局，项目范围绑定，以添加所有场景的依赖项
-* Convention based binding, based on class name, namespace, or any other criteria
-* Ability to validate object graphs at editor time (including dynamic object graphs created via factories)
-* Automatic binding on components in the scene using the `ZenjectBinding` component
-* Auto-Mocking using the Moq library
-* Built-in support for memory pools
-* Support for decorator pattern using decorator bindings
-* Support for automatically mapping open generic types
-* Built in support for unit test, integration tests, and scene tests
-* Just-in-time injection using the LazyInject<> construct
+* 基于约定的绑定，基于类名的绑定，基于命名空间的绑定，或者基于其他标准的绑定
+* 有能力去验证在编辑器时间的对象图(包括使用工厂动态创建的对象图)
+* 自动使用ZenjectBinding组件来绑定场景中的组件
+* 使用Moq库进行自动模拟
+* 内置内存池支持
+* 支持使用装饰器绑定来完成装饰器模式
+* 支持自动映射开发泛型类型
+* 内置单元测试，集成测试以及场景测试
+* 使用LazyInject<>构造来完成及时注入
 
