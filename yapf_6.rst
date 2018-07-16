@@ -26,12 +26,12 @@ YAPF使用了一个不同的方法。
 它是基于有Daniel Jasper提出的clang格式。
 本质上，该算法会将代码格式化为符合代码样式指南的最佳格式，
 即使源代码没有违反代码样式指南。
-The idea is also similar to the 'gofmt' tool for
-the Go programming language: end all holy wars about formatting - if the whole
-codebase of a project is simply piped through YAPF whenever modifications are
-made, the style remains consistent throughout the project and there's no point
-arguing about style in every code review.
-
+这个想法类似于GO语言的编程工具‘gofmt’:
+结束所有关于格式化的圣战 - 
+如果全部的代码库都使用YAPF对代码的格式进行简单的修改，
+那么我们的工程代码格式就会保持一致，这样在review代码的时候就不会有人因为代码的格式而进行没有意义的争论。
+最终的目标
 The ultimate goal is that the code YAPF produces is as good as the code that a
-programmer would write if they were following the style guide. It takes away
+programmer would write if they were following the style guide. 
+It takes away
 some of the drudgery of maintaining your code.
