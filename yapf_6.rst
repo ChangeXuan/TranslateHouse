@@ -30,8 +30,5 @@ YAPF使用了一个不同的方法。
 结束所有关于格式化的圣战 - 
 如果全部的代码库都使用YAPF对代码的格式进行简单的修改，
 那么我们的工程代码格式就会保持一致，这样在review代码的时候就不会有人因为代码的格式而进行没有意义的争论。
-最终的目标
-The ultimate goal is that the code YAPF produces is as good as the code that a
-programmer would write if they were following the style guide. 
-It takes away
-some of the drudgery of maintaining your code.
+最终的目标是使用YAPF格式化后的代码和编程人员准守格式指南所编写的代码一样好。
+YAPF会帮助你把一些维护代码格式的繁琐工作给轻松完成。
