@@ -1,4 +1,4 @@
-# 原文来自[svermeulen/Zenject](https://github.com/svermeulen/Zenject/blob/master)
+# 原文来自[svermeulen/Zenject](https://github.com/svermeulen/Zenject)
 
 ## 简介
 
