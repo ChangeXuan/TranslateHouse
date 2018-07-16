@@ -24,7 +24,7 @@
 - ✅ **100%与自动布局和大小兼容**。没有自定义布局系统。
 - ✅ **在IB界面中完成用户界面的设计与预览**: 圆角, 粗体, 蒙版, 阴影, 渐变色, 着色, 模糊效果等。
 - ✅ **在IB界面中完成动画设计**: 滑动, 褪色, 缩放, 轻跳, 弹泡, 抖动, 旋转, 移动等。
-- ✅ **Transition design in IB**: fade, slide, flip, cube, portal, fold, explosion etc.
+- ✅ **在IB界面中完成过渡效果的设计**: 消退, 滑动, 轻跳, 立方体旋转, 进入, 交替折叠, 爆炸分散等等。
 - ✅ **Interactive gesture design in IB**: pan, screen edge pan, pinch etc. 
 - ✅ **Presentation design in IB**: flip, cover, zoom, dropdown etc.
 - ✅ **Activity indicator design in IB**: ball beat, ball rotate, cube transition, Pacman etc. 
