@@ -25,6 +25,6 @@
 - ✅ **在IB界面中完成用户界面的设计与预览**: 圆角, 粗体, 蒙版, 阴影, 渐变色, 着色, 模糊效果等。
 - ✅ **在IB界面中完成动画设计**: 滑动, 褪色, 缩放, 轻跳, 弹泡, 抖动, 旋转, 移动等。
 - ✅ **在IB界面中完成过渡效果的设计**: 消退, 滑动, 轻跳, 立方体旋转, 进入, 交替折叠, 爆炸分散等等。
-- ✅ **Interactive gesture design in IB**: pan, screen edge pan, pinch etc. 
-- ✅ **Presentation design in IB**: flip, cover, zoom, dropdown etc.
-- ✅ **Activity indicator design in IB**: ball beat, ball rotate, cube transition, Pacman etc. 
+- ✅ **在IB界面中设计交互手势**: 各种手势。 
+- ✅ **在IB界面中动态显示设计结果**: 轻跳, 覆盖, 缩放, 下拉等等.
+- ✅ **在IB界面设计活动指示**: 跳动, 旋转, 立体变换, 等等. 
