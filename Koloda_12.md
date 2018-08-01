@@ -19,5 +19,5 @@ KolodaView是一个专门为了简化实现iOS上火柴卡片效果而设计的�
 线程安全
 --------------
 KolodaView是UIView的一个子类(也是属于UIKit组件)，所以它只能运行在主线程上。你可能会想使用其他线程去加载或更新KolodaView的内容或某一项,如果你要这样做，就必须要确保你的内容已经被加载，并且在你切换回主线程之前更新KolodaView。
-You may wish to use threads for loading or updating KolodaView contents or items, but always ensure that once your content has loaded, you switch back to the main thread before updating the KolodaView.
+
 
