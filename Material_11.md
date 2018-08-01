@@ -3,8 +3,8 @@
 ![Material](http://www.cosmicmind.com/material/github/material-logo.png)
 
 # Material
-
-Welcome to **Material,** a UI/UX framework for creating beautiful applications. Material's animation system has been completely reworked to take advantage of [Motion](https://github.com/CosmicMind/Motion), a library dedicated to animations and transitions.
+欢迎来到**Material，**，我们是一个UI/UX的框架，可以用来创建美丽的应用。
+Material的动画系统是在利用[Motion](https://github.com/CosmicMind/Motion)优点的前提下彻底的重做了一套更优雅的动画系统,是一个致力于动画效果和过渡效果的库。
 
 [![Carthage compatible](https://img.shields.io/badge/Carthage-Compatible-brightgreen.svg?style=flat)](https://github.com/Carthage/Carthage)
 [![Version](https://img.shields.io/cocoapods/v/Material.svg?style=flat)](http://cocoapods.org/pods/Material)
