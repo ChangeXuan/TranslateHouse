@@ -11,10 +11,10 @@ ArduinoJson是一个使用C++编写的JSON库，它使JSON这一优秀个传输�
 * 修复内存分配问题(不需要对内存进行分配)
 * 没有数据会进行复制(零拷贝)
 * 有较好的可移植性(使用C++98来进行编写,能够运行在一切的C++工程)
-* Self-contained (no external dependency)
-* Small footprint
-* Input and output streams
-* [100% code coverage](https://coveralls.io/github/bblanchon/ArduinoJson)
-* [Header-only library](https://en.wikipedia.org/wiki/Header-only)
-* [MIT License](https://en.wikipedia.org/wiki/MIT_License)
-* [Comprehensive documentation](https://arduinojson.org?utm_source=github&utm_medium=readme)
+* 完全编写(不需要其他的依赖库)
+* 小巧的体积
+* 拥有输入和输出流
+* [100%的代码覆盖率](https://coveralls.io/github/bblanchon/ArduinoJson)
+* [仅仅需要引入头文件](https://en.wikipedia.org/wiki/Header-only)
+* [MIT证书](https://en.wikipedia.org/wiki/MIT_License)
+* [完善的文档](https://arduinojson.org?utm_source=github&utm_medium=readme)
