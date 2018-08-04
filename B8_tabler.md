@@ -23,8 +23,8 @@
 仅仅只需要基础的HTML和CSS知识，你将能够使用最简单的方式去管理和去观察不同的可视化的数据！
 
 
-* **Responsive:** With support for mobile, tablet and desktop it doesn’t matter what device you’re using. Tabler is responsive in all major browsers.
-* **Cross Browser:** Our theme works perfectly with: Latest Chrome, Firefox+, Latest Safari, Opera, Internet Explorer 10+ and mobile browsers. We work hard to continuously support them.
-* **HTML5 & CSS3:** We only use modern web technologies like HTML5 and CSS3. Our theme includes some subtle CSS3 animations so you will get anyone’s attention.
-* **Clean Code:** We strictly followed Bootstrap’s guidelines to make your integration as easy as possible. All code is handwritten and W3C valid.
-* **Demo pages**: Tabler features over 20 individual pages featuring various components, giving you the freedom to choose and combine. All components can take variation in color and styling that can easily be modified using Sass. The sky is the limit!
+* **响应式:** 你使用什么设备并不重要，因为我们支持移动端，平板和桌面端。Tabler的布局在主流的浏览器中都能够自适应。
+* **交叉浏览器:** 我们的主题能够很好的工作在: 最高版本的Chrome, Firefox+, 最高版本的Safari, Opera, Internet Explorer 10+ 和移动browsers。我们尽我们最大的努力去支持它们。
+* **HTML5和CSS3:** 我们仅仅使用现代的web技术，比如HTML5和CSS3。我们的主题包括一些精妙的CSS3动画效果，所以你的注意力将会被这些有趣的动画所吸引。
+* **干净的代码:** 我们严格的去遵循Bootstrap的指南，就是为了使您的集成变得简单。全部的代码都是纯手写并且通过了W3C的标准
+* **样例页面**: Table具有超过20个独立页面，具有不同的组件，让您有选择和组合的自由。所有组件都可以改变颜色和样式，可以很容易地使用SASS进行修改。天空是极限！
