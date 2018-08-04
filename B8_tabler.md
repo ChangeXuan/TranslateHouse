@@ -5,7 +5,7 @@
  [![Sponsors on Open Collective](https://opencollective.com/tabler/sponsors/badge.svg)](#sponsors) 
 <a href="https://buddy.works"><img src="https://assets.buddy.works/automated-dark.svg" alt="Automated by Buddy" align="right"></a>
 
-Premium and Open Source dashboard template with responsive and high quality UI.
+优质和开源的管理员仪表盘模版，并且是响应式和高质量的UI。
 
 <strong><a href="https://tabler.github.io/demo/">View Demo</a> | <a href="https://github.com/tabler/tabler/archive/master.zip">Download ZIP</a> | <a href="https://goo.gl/zJP2dT">Join us on Slack</a></strong>
 
@@ -13,12 +13,15 @@ Premium and Open Source dashboard template with responsive and high quality UI.
 
 ![Tabler preview](https://tabler.github.io/assets/images/dashboard.png)
 
-## Features
+## 特征
 
 <img src="https://tabler.github.io/assets/images/features/features-2.png" width="400" align="right" style="max-width: 50%">
 
+我们创建这个管理员面板是为了让每一个想去创建自己的控制面板的人们能够很好的使用我们提供的高质量的预制组件。
+我们的使命是提供用户友好型，清爽和简单的管理员控制面板，
+这样在简单的web站点和复杂的系统中都可以使用我们提供的工具。
+仅仅只需要基础的HTML和CSS知识，你将能够使用最简单的方式去管理和去观察不同的可视化的数据！
 
-We created this admin panel for everyone who wants to create any templates based on our pre-made components. Our mission is to deliver a user-friendly, clear and easy administration panel, that can be used by both, simple websites and sophisticated systems. The only requirement is a basic HTML and CSS knowledge—as a reward, you'll be able to manage and visualize different types of data in the easiest possible way!
 
 * **Responsive:** With support for mobile, tablet and desktop it doesn’t matter what device you’re using. Tabler is responsive in all major browsers.
 * **Cross Browser:** Our theme works perfectly with: Latest Chrome, Firefox+, Latest Safari, Opera, Internet Explorer 10+ and mobile browsers. We work hard to continuously support them.
