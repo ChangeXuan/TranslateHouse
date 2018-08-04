@@ -5,7 +5,7 @@ Pure
 
 [![Pure](https://cloud.githubusercontent.com/assets/449779/5291099/1b554cca-7b03-11e4-9157-53a12d91b34a.png)][Pure]
 
-A set of small, responsive CSS modules that you can use in every web project.
+这是一个小的，可响应的CSS模块，你能够使用在你任意的web项目中
 [http://purecss.io/][Pure]
 
 [![Build Status](http://img.shields.io/travis/pure-css/pure.svg?style=flat)][Build Status]
@@ -17,11 +17,10 @@ A set of small, responsive CSS modules that you can use in every web project.
 [Build Status]: https://travis-ci.org/pure-css/pure
 [customize]: http://purecss.io/customize/
 
-Features
+特征
 --------
-
-Pure is meant to be a starting point for every website or web app. We take care
-of all the CSS work that every site needs, without making it look cookie-cutter:
+Pure的目标是成为每一个web站点或web应用的起点选择。
+我们希望照顾到所有使用CSS来对站点进行开发的工作，我们的特点如下：
 
 * A responsive grid that can be customized to your needs.
 
