@@ -22,25 +22,23 @@ Pure
 Pure的目标是成为每一个web站点或web应用的起点选择。
 我们希望照顾到所有使用CSS来对站点进行开发的工作，我们的特点如下：
 
-* A responsive grid that can be customized to your needs.
+* 一个响应式的栅格能够让你自定义你所需要的效果。
 
-* A solid base built on [Normalize.css][] to fix cross-browser compatibility
-  issues.
+* 建立在[Normalize.css][]的标准上去解决交叉浏览器兼容的问题。
 
-* Consistently styled buttons that work with `<a>` and `<button>` elements.
+* 一如既往的去使用`<a>`和`<button>`元素来作为按钮样式。
 
-* Styles for vertical and horizontal menus, including support for dropdown
-  menus.
+* 有水平和垂直菜单两张样式，同时包含了下拉菜单。
 
-* Useful form alignments that look great on all screen sizes.
+* 有用的对齐方式在全部设备上看起来都很好。
 
-* Various common table styles.
+* 有很多常见的table样式。
 
-* An extremely minimalist look that is super-easy to customize.
+* 拥有极其简单的菜单和能够非常简单的自定义。
 
-* Responsive by default, with a non-responsive option.
+* 默认是响应式的，也可以设置成非响应式的。
 
-* Extremely small file size: **4.5KB minified + gzip**.
+* 非常小的文件尺寸: **4.5KB minified + gzip**.
 
 
 [Normalize.css]: http://necolas.github.io/normalize.css/
