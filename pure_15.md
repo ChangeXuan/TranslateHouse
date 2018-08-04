@@ -12,14 +12,10 @@ A set of small, responsive CSS modules that you can use in every web project.
 [![Dependency Status](https://david-dm.org/pure-css/pure/dev-status.svg)](https://david-dm.org/pure-css/pure?type=dev)
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/pure-css/pure?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-**Use From the CDN:**
-
-```html
-<link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/pure-min.css">
-```
-
-Note: You can [customize which Pure modules you need][customize].
-
+[Pure]: http://purecss.io/
+[Bower]: http://bower.io/
+[Build Status]: https://travis-ci.org/pure-css/pure
+[customize]: http://purecss.io/customize/
 
 Features
 --------
