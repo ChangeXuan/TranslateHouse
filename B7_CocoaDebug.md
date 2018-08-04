@@ -12,28 +12,28 @@
 
 <span style="float:none" />
 
-## Introduction
+## 介绍
 
 ![example](https://raw.githubusercontent.com/CocoaDebug/CocoaDebug/master/pic/example.gif)
 
-- [x] Shake to hide or show the black bubble. (support both device and simulator).
+- [x] 通过摇晃来显示和隐藏黑色气泡(支持手机设备和模拟器)。
 
-- [x] Long press the black bubble to show `UIDebuggingInformationOverlay`. (Apple's Private API, support iOS 10/11).
+- [x] 长按黑色气泡来显示`UIDebuggingInformationOverlay`。(苹果的私有API，支持iOS 10/11)。
 
-- [x] Application memory usage and `FPS`.
+- [x] 应用内存使用和`FPS`.
 
-- [x] List all `print()` and `NSLog()` messages which have been written by developer in Xcode.
+- [x] 列举出全部的`print()`和`NSLog()`的信息显示在xcode的开发者控制台。
 
-- [x] List of all the network requests sent by the application.
+- [x] 列举出全部的应用发出的网络请求。
 
-- [x] Shake device or simulator to share network details via email or copy to clipboard when you are in the `Network Details` page.
+- [x] 在`Network Details`也面中抖动设备或者模拟器，能够把网络请求的详细信息发送到邮件或者复制到黏贴版。
 
-- [x] Copy logs. (long press the text, then select all or select copy).
+- [x] 复制logs信息(长按文本信息, 可以进行全选复制或者选择部分进行复制)。
 
-- [x] Search logs by keyword.
+- [x] 使用关键字来查找logs信息。
 
-- [x] List application and device informations, including `version` `build` `bundle name` `bundle id` `screen resolution` `device` `iOS version`
+- [x] 列举出应用和蛇别的信息, 包括 `version` `build` `bundle name` `bundle id` `screen resolution` `device` `iOS version`
 
-- [x] List all sandbox folders and files, supporting to preview and edit.
+- [x] 列出全部的沙盒文件夹和文件，支持展现和编辑。
 
-- [x] List crash errors. (optional)
+- [x] 列出错误的崩溃信息。(可选)
