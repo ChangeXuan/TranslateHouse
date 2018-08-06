@@ -1,6 +1,6 @@
 # 原文来自：[Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day2_Simple_Linear_Regression.md)
 
-# Simple Linear Regression
+# 简单的线性回归
 
 
 <p align="center">
