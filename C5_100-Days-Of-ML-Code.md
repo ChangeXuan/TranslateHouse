@@ -1,9 +1,9 @@
 # 原文来自：[Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
 
-# Decision Tree
+# 决策树
 An intuition on decision tree for classification
 
-## What is a decision tree?
+## 什么是决策树?
 It is a type of supervised learning algorithm that is mosyly used in classification
 problems and works for both categorical and continuous input and output variables.
 
