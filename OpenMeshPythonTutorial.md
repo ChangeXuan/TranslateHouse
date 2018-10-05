@@ -9,20 +9,20 @@
 - 怎么读取网格文件和把网格文件输出为模型网格文件
 此外, 我们将简要的讨论使用Python和C++去调用OpenMesh时它们之间的不同之处。
 # Building the Python Bindings
-The Python Bindings depend on the following libraries:
+使用Python Bindings需要依赖一下的库:
 - Python (2.7 or later)
 - Boost Python(1.54.0 or later)
 ```
-Note:
-    Make sure that your Boost Python and Python versions match,i.e. that Boost Python was linked against the correct Python version.
+注意:
+    要确保你的Boost Python和Python的版本是匹配的，也就是说，需要把Boost Python与和它对应的Python链接起来。
 ```
-The Python Bindings are automatically built with OpenMesh. The generated files are written to the Build/python subdirectory of the build tree.For more information on how to build OpenMesh see Compiling OpenMesh.
-if CMake does not find your Python installation (or finds the wrong one)you can explicitly specify an installation by setting the following variables:
+OpenMesh会自动构建出Python Bindings。生成的文件将会被写入构建树中的Build/python的子目录。关于如果构建OpenMesh的更多信息，请参见[Compiling OpenMesh](http://www.openmesh.org/media/Documentations/OpenMesh-6.3-Documentation/a00017.html)。
+如果CMake不能找到你已经安装好的Python(或者找到了错误的那个)，你能够通过设置下边的变量来显示的进行安装:
 ```
 PYTHON_LIBRARY          - Path to the python library
 PYTHON_INCLUDE_DIR      - Path to where Python.h if found
 ```
-Similarly, if CMake does not find your Boost Python installation, set the following variables.
+类似的，如果CMake没有找到你已经安装好的Boost Python，你可以按照下边进行设置:
 ```
 BOOST_ROOT              - Preferred installation prefix
 BOOST_INCLUDEDIR        - Preferred include directory e.g. <prefix>/include
