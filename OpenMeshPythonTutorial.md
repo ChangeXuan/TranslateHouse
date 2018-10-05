@@ -28,3 +28,13 @@ BOOST_ROOT              - Preferred installation prefix
 BOOST_INCLUDEDIR        - Preferred include directory e.g. <prefix>/include
 BOOST_LIBRARYDIR        - Preferred library directory e.g. <prefix>/lib
 ```
+# Getting Started
+如果要使用OpenMesh的Python Bindings，我们第一步是需要在python文件中导入openmesh模块:
+```
+from openmesh import *
+```
+这个模块提供了两个网格类：一个是多边形网格(PolyMesh)，另一个是三角形网格(TriMesh)。 如果可能的话，你应该去使用三角形网格，因为它们通常更有效。此外， 一些算法仅仅适用于三角形网格，当然，三角形网格继承了多边形网格的全部功能。
+以下代码是初始化一个新的三角形网格:
+```
+mesh = TriMesh()
+```
